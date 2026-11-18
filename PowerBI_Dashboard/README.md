@@ -1,4 +1,4 @@
-# Healthcare Patient Analytics Dashboard
+# Health Care Data Analysis
 
 ## Project Overview
 This project analyses hospital patient data using Microsoft Power BI to identify patterns in patient demographics, medical conditions, hospital admissions, billing amounts, and length of hospital stay.
