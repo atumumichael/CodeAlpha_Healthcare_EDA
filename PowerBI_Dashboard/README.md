@@ -58,3 +58,7 @@ To develop practical skills in healthcare data analysis, data visualisation, das
 
 ## Conclusion
 The project demonstrates how Power BI can transform healthcare datasets into interactive dashboards that make patient distributions, admission patterns, and billing information easier to explore.
+
+## Dashboard Preview
+
+![Healthcare Patient Analytics Dashboard](dashboard_screenshot.png)
