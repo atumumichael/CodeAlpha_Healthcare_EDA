@@ -61,4 +61,4 @@ The project demonstrates how Power BI can transform healthcare datasets into int
 
 ## Dashboard Preview
 
-![Healthcare Patient Analytics Dashboard](dashboard_screenshot.png)
+![Health Care Data Analysis](dashboard_screenshot.png)
